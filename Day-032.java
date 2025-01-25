@@ -1,4 +1,5 @@
-K-th element of two Arrays
+K
+-th element of two Arrays
 Difficulty: MediumAccuracy: 37.4%Submissions: 311K+Points: 4
 Given two sorted arrays a[] and b[] and an element k, the task is to find the element that would be at the kth position of the combined sorted array.
 
